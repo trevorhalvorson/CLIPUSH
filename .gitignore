@@ -1,0 +1,8 @@
+#python
+*.zip
+*.pyc
+venv
+
+#intellij
+.idea
+
