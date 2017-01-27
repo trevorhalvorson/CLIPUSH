@@ -13,4 +13,4 @@ From the project root, enter into the `PushAndroid` directory and run `./gradlew
 Your device is now registered to receive push notifications.
 
 2. cli-push
-From the project root, enter into the `cli-push` directory and run `cli-push DEVICE_ID "MESSAGE"` - substituting DEVICE\_ID with your __device\_id__ from Step 1 and "MESSAGE" with "Your message to send surrounded in quotes"
+From the project root, enter into the `cli-push` directory and run `python setup.py install`. Now run `cli-push DEVICE_ID "MESSAGE"` - substituting DEVICE\_ID with your __device\_id__ from Step 1 and "MESSAGE" with "Your message to send surrounded in quotes"
