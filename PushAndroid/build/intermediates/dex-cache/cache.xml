@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/trevor/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.3/3ae380888029daefb91d3ecdca3a37d8cb92bc9/jackson-databind-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03ae380888029daefb91d3ecdca3a37d8cb92bc9">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.3_f9b209c0130855b6f7249c2a3480cf4aab229dc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_a1fc913f942b2bd1c8dd26d3f489ac5078a34d5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/.gradle/caches/modules-2/files-2.1/me.pushy/sdk/1.0.21/33c6d1aeb98a5f1aa21609024ab0fec0852625a4/sdk-1.0.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33c6d1aeb98a5f1aa21609024ab0fec0852625a4">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/sdk-1.0.21_a90b0dc74e4235af3659fb6e2f87f138ae79f590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_8aa758eab31bdea060129d3f405248a3c5538ecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_43f3be4e24891b9a17026d766de28332f35fe2ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_7ea488d368c345b3edf1e1a55bef2f0c873822cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_3a56a5a871104f5a87235afdeef9790e72f2ca06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_a0875b9e3805378ca1c0cac5d8808f8c7d85ff05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_95c04d753efc8464634d4c98ad126f8cfcdf72cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_c24c886fc6b04a2301d48b69b00c9dded94d0da3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.3/527fece4f23a457070a36c371a26d6c0208e1c3/jackson-annotations-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0527fece4f23a457070a36c371a26d6c0208e1c3">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.3_5918439197faadb58665e1c0e464c7fe271c7246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_65ac40776e31d58a5699bb330bf4f0fc7555a523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_580eb2a450b6fef18233d26d97bc7010dcc24771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_b76d8dc61eff418ab360b7ae74f1f2f82b754eae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_2e4d01b2f78c750c43b77ff2f1514208f75d568a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_a6a3c49db6be79b4962d2fc2db7942f2f9a527b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_b6d1449911f997cc2e20b69808be2a5890a4bee3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_c6f81fda2274d0c52550d0b02aa5c06fc8c6daef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_2403a75ae94d281d52450c684d678e5d47c3b274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_9a29a2b448247dd96c6894d02521fc892a198402.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_54d3f29c5de0b6661e0a287a5d60b251029d899a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_b0db9489fd9b75e9d7262a97629b3b74a5791628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/trevor/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/trevor/AndroidStudioProjects/PushMe/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_90ecca823c49deaa5dce05bc721e484a0b095760.jar" />
+    </item>
+
+</items>
