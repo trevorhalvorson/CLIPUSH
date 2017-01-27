@@ -1,7 +1,11 @@
 # python
 *.zip
 *.pyc
-venv
+venv/
+dist/
+*.egg-info/
+*.egg
+build/
 
 # intellij
 .idea
